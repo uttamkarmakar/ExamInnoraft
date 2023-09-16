@@ -1,2 +1,2 @@
 Adding a new text file from the main repo.
-Adding new file to test merge conflict.
+Adding new file to test merge conflict. I am adding another line to test conflict.
